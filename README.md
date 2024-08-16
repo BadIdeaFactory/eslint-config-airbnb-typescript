@@ -2,11 +2,11 @@
 
 [![Version](https://img.shields.io/npm/v/eslint-config-airbnb-typescript.svg?style=flat-square)](https://www.npmjs.com/package/eslint-config-airbnb-typescript?activeTab=versions)
 [![Downloads](https://img.shields.io/npm/dt/eslint-config-airbnb-typescript.svg?style=flat-square)](https://www.npmjs.com/package/eslint-config-airbnb-typescript)
-[![Last commit](https://img.shields.io/github/last-commit/iamturns/eslint-config-airbnb-typescript.svg?style=flat-square)](https://github.com/iamturns/eslint-config-airbnb-typescript/graphs/commit-activity)
-[![Build](https://img.shields.io/circleci/project/github/iamturns/eslint-config-airbnb-typescript/master.svg?style=flat-square)](https://circleci.com/gh/iamturns/eslint-config-airbnb-typescript)
-[![License](https://img.shields.io/github/license/iamturns/eslint-config-airbnb-typescript.svg?style=flat-square)](https://github.com/iamturns/eslint-config-airbnb-typescript/blob/master/LICENSE)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/iamturns/eslint-config-airbnb-typescript/blob/master/CONTRIBUTING.md)
-[![Code of conduct](https://img.shields.io/badge/code%20of-conduct-ff69b4.svg?style=flat-square)](https://github.com/iamturns/eslint-config-airbnb-typescript/blob/master/CODE_OF_CONDUCT.md)
+[![Last commit](https://img.shields.io/github/last-commit/BadIdeaFactory/eslint-config-airbnb-typescript.svg?style=flat-square)](https://github.com/BadIdeaFactory/eslint-config-airbnb-typescript/graphs/commit-activity)
+[![Build](https://img.shields.io/circleci/project/github/BadIdeaFactory/eslint-config-airbnb-typescript/master.svg?style=flat-square)](https://circleci.com/gh/BadIdeaFactory/eslint-config-airbnb-typescript)
+[![License](https://img.shields.io/github/license/BadIdeaFactory/eslint-config-airbnb-typescript.svg?style=flat-square)](https://github.com/BadIdeaFactory/eslint-config-airbnb-typescript/blob/master/LICENSE)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/BadIdeaFactory/eslint-config-airbnb-typescript/blob/master/CONTRIBUTING.md)
+[![Code of conduct](https://img.shields.io/badge/code%20of-conduct-ff69b4.svg?style=flat-square)](https://github.com/BadIdeaFactory/eslint-config-airbnb-typescript/blob/master/CODE_OF_CONDUCT.md)
 
 Enhances Airbnb's ESLint config with TypeScript support
 
@@ -177,9 +177,9 @@ Authored and maintained by Matt Turnbull
 ([iamturns.com](https://iamturns.com) / [@iamturns](https://twitter.com/iamturns))
 
 A big thank you to all
-[contributors](https://github.com/iamturns/eslint-config-airbnb-typescript/graphs/contributors)!
+[contributors](https://github.com/BadIdeaFactory/eslint-config-airbnb-typescript/graphs/contributors)!
 
 ## License
 
 Open source
-[licensed as MIT](https://github.com/iamturns/eslint-config-airbnb-typescript/blob/master/LICENSE).
+[licensed as MIT](https://github.com/BadIdeaFactory/eslint-config-airbnb-typescript/blob/master/LICENSE).
