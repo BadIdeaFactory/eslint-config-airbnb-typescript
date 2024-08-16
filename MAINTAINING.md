@@ -9,4 +9,6 @@ This guide is intended for maintainers (anybody with commit access).
 
 ## Releasing
 
-Releasing is handled automatically by [CircleCI](https://circleci.com/) and [semantic-release](https://github.com/semantic-release/semantic-release).
+Releasing is handled automatically by
+[CircleCI](https://circleci.com/) and
+[semantic-release](https://github.com/semantic-release/semantic-release).
