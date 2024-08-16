@@ -12,13 +12,13 @@ Enhances Airbnb's ESLint config with TypeScript support
 
 > [!IMPORTANT]
 >
-> ## This repo has been archived
+> ## This repo is a fork
 >
-> After six years and reaching 2 million weekly downloads, I can no longer give this project the attention it deserves.
->
-> Please fork this repo and carry it forward! I'll happily share links to forks here.
->
-> A huge thank you to all contributors along the way ❤️
+> Now that the
+> [original repo](https://github.com/iamturns/eslint-config-airbnb-typescript)
+> has been archived,
+> [Bad Idea Factory](https://github.com/BadIdeaFactory)
+> is maintaining and continuing development on this fork.
 
 ---
 
